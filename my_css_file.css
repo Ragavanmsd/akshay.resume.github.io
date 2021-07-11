@@ -1,0 +1,76 @@
+body {
+  background-image:url('https://cdn.dribbble.com/users/1454037/screenshots/3082355/night-shiftdribbbler.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#fn {
+  margin-left: 330px;
+  border-width: thick;
+}
+#nm {
+  margin-left: 350px;
+  border-width: thick;
+}
+#ema {
+  margin-left: 300px;
+  border-width: thick;
+}
+
+#res {
+  margin-left: 500px;
+}
+
+#work {
+  text-decoration: underline;
+
+}
+#educ {
+  text-decoration: underline;
+}
+
+table,th,td {
+  width: 50%;
+
+  border:2px solid white
+
+}
+
+#wo {
+  border-width: thick;
+  font-weight: bold;
+}
+
+#skill {
+  text-decoration: underline;
+}
+
+input {
+  border-width: thick;
+  font-weight: bold;
+}
+
+#image {
+  text-decoration: underline;
+}
+
+#oth {
+  padding-right: 200px;
+}
+
+#proj {
+  text-decoration: underline;
+}
+#pro {
+  border-width: thick;
+  font-weight: bold;
+}
+
+#active {
+  text-decoration: underline;
+}
+#activity {
+  border-width: thick;
+  font-weight: bold;
+}
